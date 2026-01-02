@@ -1,3 +1,4 @@
+![E-commerce Performance Dashboard](banner_ecommerce_option_a.png)
 # 🛒 E-commerce Performance Dashboard (Option A) — Google Sheets
 
 **Author:** Ana C. Carrasco  
